@@ -1,12 +1,12 @@
 p {
-    color: black;
+    color: white;
     text-align: center;
     padding: 100px;
     size: 1000px;
     font-family: "Bookman Old Style";
 }
 #link {
-    color: red;
+    color: white;
 }
 .p2{
     text-align: center;
@@ -35,13 +35,13 @@ img{
 }
 
 h1{
-    color: red;
+    color: white;
     padding: 50px;
     text-align: center;
     size: 200px;
 }
 h2{
-    color: blue;
+    color: white;
     text-align: center;
 }
 h3{
@@ -51,5 +51,5 @@ h3{
 }
 
 body {
-    background-color: yellow;
+    background-color: white;
 }
